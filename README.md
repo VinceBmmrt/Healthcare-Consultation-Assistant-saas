@@ -59,6 +59,9 @@ Le contenu est généré en **temps réel par streaming IA**, avec une authentif
 - **3 sections de sortie** : Résumé médical, liste d'actions, email patient
 - **Authentification JWT** : Toutes les requêtes sont sécurisées via Clerk
 - **Accès premium** : Fonctionnalité réservée aux abonnés
+- 🔐 **Connexion sociale** : Sign in via Google, GitHub ou Email grâce à **Clerk**
+- 💳 **Abonnements & paiements** : Traitement des paiements intégré
+
 
 ---
 
@@ -176,7 +179,8 @@ Content is generated via **real-time AI streaming**, with secure authentication 
 - **3 output sections**: Medical summary, action items, patient email
 - **JWT authentication**: All API requests are secured via Clerk
 - **Premium access**: Feature gated to subscribed users only
-
+- 🔐 **Social login**: Sign in with Google, GitHub, or Email via **Clerk**
+- 💳 **Subscriptions & payments**: Integrated payment processing
 ---
 
 ### 🚀 Local Setup
